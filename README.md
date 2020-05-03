@@ -19,7 +19,7 @@
 * Clone repository
 * 选择团队项目
 
-<img src="https://i.loli.net/2020/05/03/JbWOhqBtxpn5ljN.png" alt="image-20200503194111427.png" style="zoom: 33%;" />
+![image.png](https://i.loli.net/2020/05/03/5wVq7z4oWIunvkc.png)
 
 * 等待
 
